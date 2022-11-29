@@ -1,0 +1,5 @@
+geopy==2.3.0
+openpyxl==3.0.10
+pandas==1.5.1
+pipenv==2022.11.25
+xlrd==2.0.1
